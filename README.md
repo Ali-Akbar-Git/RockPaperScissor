@@ -1,0 +1,2 @@
+Rock-Paper-Scissors Game ✊✋✌️
+This repository contains a simple implementation of the classic Rock-Paper-Scissors game. It allows users to play against a computer opponent. The project serves as a practical exercise for understanding basic game logic, user input handling, and random number generation within a console or basic GUI environment. It's designed to be straightforward and easily extensible for those looking to learn fundamental programming concepts.
